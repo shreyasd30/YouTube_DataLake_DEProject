@@ -25,7 +25,7 @@ The dataset is taken from Kaggle and it contains statistics on daily YouTube Vid
 
 [Kaggle Dataset Link](https://www.kaggle.com/datasets/datasnaek/youtube-new/download?datasetVersionNumber=115)
 
-#Data Architecture Diagram    
+# Data Architecture Diagram    
 
 
 ![Data_Architecture (1)](https://github.com/shreyasd30/YouTube_DataLake_DEProject/assets/56275546/43e0d06c-4e00-4ab9-a8a9-453385fd97e3)
