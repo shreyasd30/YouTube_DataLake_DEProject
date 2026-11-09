@@ -1,6 +1,6 @@
 # YouTube_DataLake_DEProject
 # Project Overview
-The primary objective of this project is to securely handle, streamline, and analyze structured and semi-structured data from YouTube videos, focusing on video categories and trending metrics.
+The primary objective of this project is to securely handle, streamline, and analyze structured and semi-structured data from YouTube videos, focusing on video categories and trending metrics..
 
 # Project Goals 
 A. Data Lake - We will get the data from multiple data sources and hence we will be needing a centralized repository to store them.    
